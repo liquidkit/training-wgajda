@@ -1,1 +1,1 @@
-some text for the file c.txt
+c
